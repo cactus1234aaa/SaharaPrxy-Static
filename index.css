@@ -16,6 +16,7 @@
 body {
     margin: 0;
     background: #111;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNs2ozzxM1aEcHAikTVF5qfr_6-Rd8UsLvaw&usqp=CAU")
     display: flex;
     flex-direction: column;
     min-height: 100vh;
